@@ -1,2 +1,6 @@
-user: sebacastillo
+usuario
+user: cscastillo
 pass: Elefante666$
+
+dabase
+definir postgresSQL
